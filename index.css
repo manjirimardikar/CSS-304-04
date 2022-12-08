@@ -1,0 +1,20 @@
+nav{
+    background-color: rgb(47, 4, 128);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0px;
+    justify-content:space-around;
+}
+p{
+    color: white;
+    top: -5px;
+}
+i{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    
+}
